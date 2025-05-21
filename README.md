@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 💫 About Me:
+
+# 💫 Sobre mi:
 💻 ¡Hola! Soy Bárbara Sánchez, desarrolladora web Full Stack apasionada por la tecnología y el aprendizaje constante. <br><br>🚀 Recientemente completé un bootcamp intensivo donde adquirí habilidades sólidas tanto en el desarrollo frontend como backend. Me encanta crear aplicaciones web funcionales, accesibles y con una buena experiencia de usuario. <br><br>🛠️ Trabajo con tecnologías como JavaScript, React, Node.js, Express, HTML, CSS y MongoDB. Estoy abierta a oportunidades que me permitan seguir creciendo como profesional, colaborar en equipo y aportar soluciones creativas a problemas reales.<br><br>🎯 Mi objetivo es integrarme a un equipo de desarrollo donde pueda seguir aprendiendo y aportar desde el primer día.<br><br>📫 No dudes en contactarme para hablar sobre desarrollo, proyectos o nuevas oportunidades.<br>
 
 
